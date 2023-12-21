@@ -1,0 +1,10 @@
+We are going to walk through the Dynamic programming problems and work around the different types of problems and list them in different categories
+
+1) 1D DP
+2) 2D DP
+3) 3D DP
+4) DP with distinct ways
+5) DP with hashing
+6) DP with merge intervals
+7) DP on Stocks
+8) DP on strings
